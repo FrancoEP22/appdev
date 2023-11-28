@@ -11,8 +11,7 @@ My first Repository
 ## Movies
 ###1. **Five Nights at Freddy's Movie**
    - *Genre:* Horror, Mystery, Thriller
-   - *Description:* The story typically revolves around a night security guard at a fictional family pizza restaurant, Freddy Fazbear's Pizza, where animatronic 
-     characters come to life and pose a threat to the security guard.
+   - *Description:* A troubled security guard begins working at Freddy Fazbear's Pizzeria. While spending his first night on the job, he realizes the late shift at Freddy's won't be so easy to make it through.
  ###2. **Spider-Man: Across The Spider-Verse**
     - *Genre:* Animated, Action, Adventure, Sci-Fi
     - *Description:* Miles Morales returns once again to save the multiverse! After being reunited with Gwen Stacy, Miles races across the multiverse to try and defeat a powerful foe known as the Spot. He meets many other spider people. But Miguel O'Hara doesn't approve of Miles' actions to save everyone, following canon events.
